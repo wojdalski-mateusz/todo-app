@@ -1,5 +1,7 @@
 # Task Management App
 
+![todo_demo_photo](todo.png)
+
 ## Description
 
 This is a simple task management app built with Next.js, React, and TypeScript. It allows users to add, delete, and mark tasks as completed. Tasks can also be filtered by category.
